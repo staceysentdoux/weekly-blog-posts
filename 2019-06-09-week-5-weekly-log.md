@@ -1,0 +1,7 @@
+Reading:
+It sometimes takes me a while to notice patterns, especially it comes to data. Typically I find it at the end, once I step back and look at the bigger picture. Moravec's post was really interesting to see how what a cool software AntConc is, and all the various tools within in such as the Word Lists and  Clusters. Hopefully I will be able to tackle through the exercises better this week and will be able to utilize the tools to recognize patterns quickly! It has been tough being in Singapore given the circumstances, so my head has not really been in the right headspace recently, hopefully it would not be an obstacle while tackling the exercises. 
+
+
+Exercises: 
+
+Since I did not want to download any programs onto my machine due to storage space, I went straight to exercise 9. Played around with the math features on Rstudio which was super cool! Made me think of what a cheat code it would have been for math in my high school days! Tried the igraph exercise and kept getting error messages regarding creating variables for nodes and links. Reached out to the Slack channel, hopefully I will hear back in time. The QGIS won't download for me. Not sure what is going on, my chrome browser kept crashing. Tried multiple times and still won't work. Feeling frustrated and defeated this week. Hopefully I do not feel this way when working on the Capstone exercise. 
